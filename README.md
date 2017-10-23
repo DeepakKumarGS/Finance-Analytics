@@ -2,7 +2,7 @@
 
 ### This project was part of  my PG coursework "Business Finance" at Great Lakes Institute of Management.
  
-The assignment involves analysing the company-Kirloskar Brothers Ltd(Pumps) annual report for the period 2013-16 from their respective websites
+The assignment involves analysing the company-Kirloskar Brothers Ltd(Pumps) annual report for the period 2013-17 from their websites
 
 # Methodology:
 
